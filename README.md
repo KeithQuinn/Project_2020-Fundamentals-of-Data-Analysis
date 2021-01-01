@@ -6,7 +6,7 @@ Included in the repository is a jupyter notebook titled *'Project_2020-Fundament
 - Deterministic
 - Statistical
 
-The research for the aforementioned relationships includes applied examples for both. Ohms law is used for deterministic and a weight-height relationship is used to demonstrate the statistical relationship. It is concluded that deterministic is outside the scope of this project and the focus from this point forward is on statistical regression analysis. Statistical simple linear regression is researched. As part of this research important considerations and assumptions are determined which are key for the completion of analysis within this notebook. That concluded the research part of the project, focus now switched to development section.
+The research for the aforementioned relationships includes applied examples for both. Ohms law is used for deterministic and a weight-height relationship is used to demonstrate the statistical relationship. It is concluded that deterministic is outside the scope of this project and the focus from this point forward is on statistical regression analysis. Through the statistical simple linear regression research, important considerations and assumptions are determined which are key for the completion of analysis within this notebook. That concluded the research part of the project, focus now switched to development section.
 
 In the development section of this notebook there are two data sets considered;
 
